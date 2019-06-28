@@ -1,5 +1,5 @@
 # custom_vbo
-Custom module to extend Views Bulk Operation 
+Custom Drupal 8 module to extend Views Bulk Operation 
 Provide custom actions on custom entities, on a specific field.
 This feature may now be available in contributed modules, such as https://www.drupal.org/project/bulk_update_fields
 
