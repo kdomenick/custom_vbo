@@ -1,0 +1,13 @@
+# Schema for the configuration files of the custom_vbo module.
+# In this module, a status field on a custom entity can be set to three values: approve, process, deny
+action.configuration.status_set_approve:
+  type: action_configuration_default
+  label: 'Accept'
+
+action.configuration.status_set_process:
+  type: action_configuration_default
+  label: 'Process'
+
+  action.configuration.status_set_deny:
+  type: action_configuration_default
+  label: 'Process'

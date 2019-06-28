@@ -1,0 +1,6 @@
+name: 'custom_vbo'
+description: 'Provide custom actions on using bulk operations feature on a custom entity'
+core: 8.x
+type: module
+dependencies:
+  0: views_bulk_operations
